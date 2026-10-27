@@ -1,0 +1,16 @@
+﻿Leases - ROU Assets and Lease Liabilities (Details) - USD ($) $ in Millions,"Sep. 25, 2021","Sep. 26, 2020"
+Lease-Related Assets and Liabilities,,
+Operating lease right-of-use assets,10087,8570
+"Operating lease right-of-use assets, financial statement line item [Extensible Enumeration]",Other non-current assets,Other non-current assets
+Finance lease right-of-use assets,861,629
+"Finance lease right-of-use assets, financial statement line item [Extensible Enumeration]","Property, plant and equipment, net","Property, plant and equipment, net"
+Total right-of-use assets,10948,9199
+"Operating lease liabilities, current",1449,1436
+"Operating lease liabilities, current, financial statement line item [Extensible Enumeration]",Other current liabilities,Other current liabilities
+"Operating lease liabilities, non-current",9506,7745
+"Operating lease liabilities, non-current, financial statement line item [Extensible Enumeration]",Other non-current liabilities,Other non-current liabilities
+"Finance lease liabilities, current",79,24
+"Finance lease liabilities, current, financial statement line item [Extensible Enumeration]",Other current liabilities,Other current liabilities
+"Finance lease liabilities, non-current",769,637
+"Finance lease liabilities, non-current, financial statement line item [Extensible Enumeration]",Other non-current liabilities,Other non-current liabilities
+Total lease liabilities,11803,9842
