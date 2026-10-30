@@ -111,12 +111,6 @@ python 06_text_to_sql.py --demo
 python 06_text_to_sql.py --schema     # shows exactly what the LLM is told
 ```
 
-## Safety
-
-- The API key lives only in `.env`, which is listed in `.gitignore`. Never commit it.
-- The database is opened **read-only** by the assistant, and only a single `SELECT` is accepted.
-- `data/` and `outputs/` are generated locally and are not committed. `final_data/` is committed.
-
 ## Outputs
 
 - `outputs/data_inventory.txt`: report from Step 1.
